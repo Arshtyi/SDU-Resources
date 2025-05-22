@@ -7,12 +7,13 @@
 ### 命名
 
 -   均以中文为主
--   尽可能文件名指明文件特点
+-   尽可能在文件名中指明文件特点
 
 ### 格式
 
--   图片的储存使用 `.tiff`、 `.svg`或 `.pdf+.pdf_tex` 格式
+-   图片的储存主要使用 `.ai+.ai_tex`、 `.svg`或 `.pdf+.pdf_tex` 格式(基于 Inkscape 等软件)
 
 ## Thx
 
+-   [SDU](https://culture.sdu.edu.cn/sdln/sjsb.htm)
 -   [China University Icon](https://github.com/soulteary/china-university-icon)
